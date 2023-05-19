@@ -1,0 +1,17 @@
+INSERT INTO Tool(tool_type, name, deliverable, price_per_hour) VALUES
+('HAND_TOOL', 'Кувалда FISKARS', 1, 38),
+('HAND_TOOL', 'Гвоздодёр FISKARS', 1, 12),
+('HAND_TOOL', 'Ножовка JET-CUT', 1, 8),
+('HAND_TOOL', 'Набор ключей Force', 1, 35),
+('POWER_TOOL', 'Перфоратор MAKITA HR 4501 С', 1, 60),
+('POWER_TOOL', 'Шуруповерт DEWALT DCF620D2K', 1, 55),
+('POWER_TOOL', 'Дрель Makita HP1630', 1, 15),
+('POWER_TOOL', 'Штроборез BOSCH GNF 35', 1, 48),
+('GARDEN_TOOL', 'Бензопила STIHL MS180', 1, 85),
+('GARDEN_TOOL', 'Триммер STIHL FS55', 1, 62),
+('GARDEN_TOOL', 'Газонокосилка Carver LMG-2646DM', 0, 94),
+('GARDEN_TOOL', 'Мотоблок НЕВА МБ-2Б-6.5RS', 0, 140),
+('MEASURING_TOOL', 'Лазерный уровень X-Line helper 2D', 1, 46),
+('MEASURING_TOOL', 'Толщиномер Etari ET-555', 1, 30),
+('MEASURING_TOOL', 'Нивелир оптический ADA Ruber X-32', 1, 43),
+('MEASURING_TOOL', 'Рулетка измерительная Kroft 3 м', 1, 10);

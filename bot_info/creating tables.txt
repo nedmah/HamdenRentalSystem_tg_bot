@@ -1,0 +1,28 @@
+CREATE TABLE Userr (
+	id integer PRIMARY KEY AUTOINCREMENT,
+	name string,
+	password string
+);
+
+CREATE TABLE Tool (
+	id integer PRIMARY KEY AUTOINCREMENT,
+	tool_type string,
+	name string,
+	deliverable boolean,
+	price_per_hour integer
+);
+
+CREATE TABLE Orderr (
+	id integer PRIMARY KEY AUTOINCREMENT,
+	summary integer,
+	receiving string,
+	address varchar,
+	fk_user_id integer
+);
+
+CREATE TABLE tool_order (
+	id integer PRIMARY KEY AUTOINCREMENT,
+	fk_orderr integer,
+	fk_tool integer
+);
+
