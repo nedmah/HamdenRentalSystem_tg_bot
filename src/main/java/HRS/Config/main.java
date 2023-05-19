@@ -11,7 +11,7 @@ public class main {
     public static void main(String[] args) {
 
 
-        String token = "6040622546:AAH9rzIPVnCNq8KaXAtFU6rP1ykbVHdhbzc";
+        String token = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
         String username = "HamdenRentalSystemBot";
 
 
