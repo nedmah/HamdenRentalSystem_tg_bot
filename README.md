@@ -1,12 +1,14 @@
 # HamdenRentalSystem_tg_bot
 Telegram bot for equipment rental including SQLite database, also using Lombok.
 
+Here's a list of it's functions:
+![functions](https://github.com/nedmah/HamdenRentalSystem_tg_bot/assets/114877544/e2898970-9dc1-4acb-8af1-d3791939c959)
+
 There's a model of my database.
 ![schema](https://github.com/nedmah/HamdenRentalSystem_tg_bot/assets/114877544/5a992705-d980-46d2-84dd-44bedf245a99)
 Here's how i did create them.(foreign keys were added manually in DBbrowser):
 [creating tables.txt](https://github.com/nedmah/HamdenRentalSystem_tg_bot/files/11517258/creating.tables.txt)
 [inserting data.txt](https://github.com/nedmah/HamdenRentalSystem_tg_bot/files/11517259/inserting.data.txt)
-
 
 The Tool table is initially filled, but later the ability to delete or add data is present among the bot functions:
 ![tool](https://github.com/nedmah/HamdenRentalSystem_tg_bot/assets/114877544/3ed25ee9-2ff2-4283-932b-22aa1ded0c60)
