@@ -50,7 +50,7 @@ public class HRS_Bot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "6040622546:AAH9rzIPVnCNq8KaXAtFU6rP1ykbVHdhbzc";
+        return "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
     }
 
     @Override
